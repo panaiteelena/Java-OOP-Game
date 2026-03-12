@@ -13,12 +13,12 @@ The moment he claims the artifact, the temple's defenses awaken. Traps are trigg
 
 ## Controls
 
-| Action | Key (Option 1) | Key (Option 2) |
+| Action | Key (Option 1)
 | :--- | :--- | :--- |
-| **Move Left** | `A` | `Left Arrow` |
-| **Move Right** | `D` | `Right Arrow` |
-| **Jump** | `Space` | `Up Arrow` |
-| **Attack (Arrows)** | `K` | `A` (Levels 2 & 3) |
+| **Move Left** | `A` 
+| **Move Right** | `D` 
+| **Jump** | `Space`
+| **Attack (Arrows)** | `K` 
 
 ---
 ##  Main Menu
