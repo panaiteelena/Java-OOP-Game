@@ -1,4 +1,4 @@
-# Elias the Fearless (Elias neînfricatul)
+# Elias the Fearless 
 
 **Elias the Fearless** is a 2D minimalist platformer that follows the journey of a 20-year-old explorer in the heart of the Amazon jungle. After recovering a legendary artifact stolen centuries ago, Elias must survive ancient traps, giant insects, and hostile ambushes to make it home alive.
 
@@ -19,6 +19,35 @@ The moment he claims the artifact, the temple's defenses awaken. Traps are trigg
 | **Move Right** | `D` | `Right Arrow` |
 | **Jump** | `Space` | `Up Arrow` |
 | **Attack (Arrows)** | `K` | `A` (Levels 2 & 3) |
+
+---
+##  Main Menu
+The game starts with a clean, functional interface featuring:
+* **Start Button:** Begin the adventure from Level 1.
+* **Load Game Button:** Resume progress from a saved state.
+* **Exit Button:** Close the game application.
+  
+<img width="899" height="482" alt="Screenshot 2026-03-12 072427" src="https://github.com/user-attachments/assets/61650f50-3d35-4e98-b54c-eab812c158fd" />
+
+---
+##  Secondary Menus & UI Feedback
+The game provides continuous feedback and navigation through specific overlay menus:
+* **Level Transition:** Progression is seamless. Once a level is successfully completed, the game automatically transitions to the next stage.
+* **Victory Screen:** After defeating the final enemy (the warrior), a **"YOU WON"** message is displayed. The victory screen includes a dedicated button to return the player safely to the **Main Menu**
+* **Failure Screen (Life Lost):** If the explorer dies, the screen displays:
+    * **"YOU LOST A LIFE"**
+    * **"Press R to try again"**
+    * **"Press ESC to exit"**
+      
+### **Lives & Failure System**
+* **Lives System:** Elias starts with **3 lives**. 
+* **Life Lost:** If the explorer dies, one life is deducted, the message **"YOU LOST A LIFE"** is displayed, and the current level restarts.
+    * **Press R:** To try again.
+    * **Press ESC:** To exit.
+* **Game Over:** If all 3 lives are lost, a **"Game Over"** message appears, and the player must restart the entire game from the beginning.
+<img width="579" height="337" alt="Screenshot 2026-03-12 072406" src="https://github.com/user-attachments/assets/2f84fc7a-31a3-4576-89c8-1c4cefd1cd32" />
+<img width="676" height="364" alt="Screenshot 2026-03-12 072438" src="https://github.com/user-attachments/assets/5da5a137-c08f-410d-ba62-5bdb06584987" />
+<img width="804" height="429" alt="Screenshot 2026-03-12 072654" src="https://github.com/user-attachments/assets/a2635e9e-d58a-43f9-987c-a67955f6fed7" />
 
 ---
 
