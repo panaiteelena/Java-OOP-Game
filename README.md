@@ -38,6 +38,7 @@ The game provides continuous feedback and navigation through specific overlay me
     * **"YOU LOST A LIFE"**
     * **"Press R to try again"**
     * **"Press ESC to exit"**
+ <img width="676" height="364" alt="Screenshot 2026-03-12 072438" src="https://github.com/user-attachments/assets/5da5a137-c08f-410d-ba62-5bdb06584987" />
       
 ### **Lives & Failure System**
 * **Lives System:** Elias starts with **3 lives**. 
@@ -46,8 +47,7 @@ The game provides continuous feedback and navigation through specific overlay me
     * **Press ESC:** To exit.
 * **Game Over:** If all 3 lives are lost, a **"Game Over"** message appears, and the player must restart the entire game from the beginning.
 <img width="579" height="337" alt="Screenshot 2026-03-12 072406" src="https://github.com/user-attachments/assets/2f84fc7a-31a3-4576-89c8-1c4cefd1cd32" />
-<img width="676" height="364" alt="Screenshot 2026-03-12 072438" src="https://github.com/user-attachments/assets/5da5a137-c08f-410d-ba62-5bdb06584987" />
-<img width="804" height="429" alt="Screenshot 2026-03-12 072654" src="https://github.com/user-attachments/assets/a2635e9e-d58a-43f9-987c-a67955f6fed7" />
+
 
 ---
 
